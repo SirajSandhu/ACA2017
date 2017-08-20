@@ -47,7 +47,7 @@ __Phase 4. NEURAL NETWORKS AND DEEP LEARNING, by MICHAEL NIELSEN
   In-depth study of Feed Forward Neural Networks from online booksite and implementation of hand-written digit classifier in Python with MNIST dataset. Introductory reading on Convolutional Neural Networks (CNN).  
     
 __Phase 5. KAGGLE :__  
-  ___Titanic Dataset___ : Completed introductory tutorial on data visualisation, analysis and feature engineering. Implemented binary classifier based on the same. ( https://www.kaggle.com/c/titanic )  
+  ___Titanic Dataset___ : Completed introductory tutorial on data visualisation, analysis and feature engineering. Implemented binary classifier based on the same ( https://www.kaggle.com/c/titanic )  
     
-  ___Bag of Words___ : Completed tutorial on using Google's Word2Vec implementation for sentiment analysis of movie reviews and implemented binary classifier based on the same.  
+  ___Bag of Words___ : Completed tutorial on using Google's Word2Vec implementation for sentiment analysis of movie reviews and implemented binary classifier based on the same ( https://www.kaggle.com/c/word2vec-nlp-tutorial )  
   
