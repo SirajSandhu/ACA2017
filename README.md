@@ -7,7 +7,8 @@ This repository contains the code completed, studied and implemented as part of 
    
   Studied the following :  
   - Linear and Logistic Regression using Gradient Descent  
-  - Feed Forward Neural Networks, Support Vector Machines (SVM)  
+  - Feed Forward Neural Networks  
+  - Support Vector Machines (SVM)  
   - K-Means Clustering and Principal Component Analysis (PCA)  
   - Collaborative Filtering  
   - Stochastic Gradient Descent, Map Reduce and Online Learning  
